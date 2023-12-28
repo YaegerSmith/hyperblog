@@ -1,5 +1,7 @@
 Esta es la historia de Esteban Vazquez
 
-Esteban tiene 29 años y estudia programación.
-Nacio México.
+Esteban tiene 30 años y estudia programación.
+Nacio en México viviendo en Ensenada, Baja California.
+
+Estoy tomando el curso de Git y GitHub en Platzi.
 Ya quiere una chamba de programador.

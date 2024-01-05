@@ -5,3 +5,5 @@ Nacio en México viviendo en Ensenada, Baja California.
 
 Estoy tomando el curso de Git y GitHub en Platzi.
 Ya quiere una chamba de programador.
+
+Estoy haciendo mi curriculum.

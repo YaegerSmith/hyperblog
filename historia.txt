@@ -3,3 +3,5 @@ Esta es la historia de Esteban Vazquez
 Esteban tiene 29 años y estudia programación.
 Nacio México.
 Ya quiere una chamba de programador.
+
+Mañana nos enfocaremos en realizar su curriculum.

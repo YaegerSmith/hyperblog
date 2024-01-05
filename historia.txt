@@ -6,4 +6,5 @@ Nacio en México viviendo en Ensenada, Baja California.
 Estoy tomando el curso de Git y GitHub en Platzi.
 Ya quiere una chamba de programador.
 
-Estoy haciendo mi curriculum.
+Estoy haciendo mi curriculum vite en los que puse los lenguages de programación que se.
+Que son: Python, HTML, CSS, Java y JavaSript.

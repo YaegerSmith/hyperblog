@@ -4,4 +4,5 @@ Esteban tiene 29 años y estudia programación.
 Nacio México.
 Ya quiere una chamba de programador.
 
+Moises Espinoza es el clon malbado de Esteban Vazquez y nacio en Internet
 Mañana nos enfocaremos en realizar su curriculum.
